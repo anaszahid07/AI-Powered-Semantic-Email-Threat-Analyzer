@@ -1,6 +1,3 @@
-# AI-Powered-Semantic-Email-Threat-Analyzer
-Multi-Model Deep Learning System for Digital Forensics
-
 # AI-Powered Semantic Email Threat Analyzer
 
 A Multi-Model Deep Learning Approach for Digital Forensics
