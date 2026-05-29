@@ -17,16 +17,6 @@ The system integrates multiple AI models and provides real-time predictions thro
 
 ---
 
-## Abstract
-
-The rapid growth of digital communication has increased the volume of email-based interactions, making email a significant source of digital evidence in cybercrime investigations. Traditional rule-based approaches often fail to detect sophisticated linguistic patterns and contextual indicators present in malicious emails.
-
-To address this challenge, this project implements a semantic email classification framework using Deep Learning and Transformer-based architectures. Three models—**DeBERTa-v3**, **RoBERTa**, and **LSTM-GRU**—were trained and evaluated on a multiclass forensic email dataset containing Normal, Fraudulent, Harassment, and Suspicious emails.
-
-The proposed system combines semantic understanding, contextual analysis, and real-time visualization through an interactive dashboard, enabling automated forensic triage and threat classification.
-
----
-
 ## Methodology
 
 ### 1. Data Collection and Preparation
@@ -166,11 +156,6 @@ This project demonstrates the effectiveness of Deep Learning and Transformer-bas
 Experimental results indicate that transformer architectures, particularly DeBERTa-v3 and RoBERTa, provide superior contextual understanding and classification performance compared to traditional sequential models. The developed system successfully combines advanced AI models with an interactive threat intelligence dashboard, offering a practical solution for automated forensic triage and semantic threat detection.
 
 ---
-
-## Authors
-
-**Anas Zahid**
-**Hunzla Arshad**
 
 Department of Cyber Security
 Air University Islamabad
